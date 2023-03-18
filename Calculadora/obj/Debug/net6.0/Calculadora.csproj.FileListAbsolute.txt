@@ -1,0 +1,12 @@
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 15 - Teste de Back End\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 15 - Teste de Back End\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 15 - Teste de Back End\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 15 - Teste de Back End\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 15 - Teste de Back End\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 15 - Teste de Back End\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 15 - Teste de Back End\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.dll
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 15 - Teste de Back End\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 15 - Teste de Back End\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.dll
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 15 - Teste de Back End\Calculadora\Calculadora\obj\Debug\net6.0\refint\Calculadora.dll
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 15 - Teste de Back End\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+C:\Users\sn1005400\OneDrive - SESISENAISP - Corporativo\Área de Trabalho\Curso FULL STACK\UC 15 - Teste de Back End\Calculadora\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll
